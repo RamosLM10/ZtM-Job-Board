@@ -1,0 +1,16 @@
+{
+  "name": "Luis Miguel Ramos",
+  "img": "",
+  "email":"luismiguel.ramos@yahoo.com.au",
+  "links": {
+    "website": "",
+    "linkedin": "https://www.linkedin.com/in/luis-ramos-45b2001b8/",
+    "github": "https://github.com/RamosLM10"
+  },
+  "jobTitle": "Web Developer",
+  "location": {
+    "city": "Canberra",
+    "state": "ACT",
+    "country": "Australia"
+  }
+}
